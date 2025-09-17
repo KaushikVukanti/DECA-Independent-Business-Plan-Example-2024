@@ -43,7 +43,7 @@ OptiPower AI revolutionizes energy management by:
 ---
 
 ## 📂 Project Files
-- [📄 Full Business Plan Report (PDF)](OptiPowerAI_Report.pdf)  
+- [📄 Full Business Plan Report (PDF)](Optipower_AI_Written_Document.pdf)  
 - [📊 Financial Model (Excel)](OptiPowerAI_FinancialModel.xlsx)  
 - [🖼️ Canva Pitch Deck (PDF)](OptiPowerAI_PitchDeck.pdf)  
 
